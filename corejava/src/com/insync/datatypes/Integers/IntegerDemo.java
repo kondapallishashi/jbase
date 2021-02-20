@@ -17,6 +17,10 @@ public class IntegerDemo {
 		//in case the requirement is to assign same value to multiple variables the below syntax can be used.
 		int sysToken, accessToken = 3421;
 		
+		//all basic data types have a wrapper class that allows the basic types to be used as Objects.
+		Integer experienceInMonths = 38;
+		
+		
 		System.out.println("employeeID : "+ employeeID);
 		
 	}
