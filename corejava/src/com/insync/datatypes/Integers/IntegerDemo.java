@@ -24,6 +24,8 @@ public class IntegerDemo {
 		System.out.println("employeeID : "+ employeeID);
 		System.out.println("Account Number: "+accountNumber);
 		System.out.println("System ID: "+sysID);
+		System.out.println("Access Token: "+ accessToken);
+		System.out.println("Experience In Months: "+ experienceInMonths);
 		
 	}
 }
