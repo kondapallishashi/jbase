@@ -22,6 +22,8 @@ public class IntegerDemo {
 		
 		System.out.println("Printing out the details of the employee");
 		System.out.println("employeeID : "+ employeeID);
+		System.out.println("Account Number: "+accountNumber);
+		System.out.println("System ID: "+sysID);
 		
 	}
 }
