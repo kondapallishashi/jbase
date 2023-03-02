@@ -1,5 +1,6 @@
+//
 //This is the declaration of a package and is optional at this stage.
-package com.insync.basics;
+package com.cp.basics;
 
 //This class demonstrates the following concepts:
 //usage of single line, multi-line comments

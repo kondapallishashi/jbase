@@ -1,4 +1,4 @@
-package com.insync.datatypes.Integers;
+package com.cp.datatypes.Integers;
 
 //This class attempts to consolidate most common usages and key details of Integer Data types in Java 
 public class IntegerDemo {
